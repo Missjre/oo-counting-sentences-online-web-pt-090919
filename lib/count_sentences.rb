@@ -7,7 +7,7 @@ class String
   end
 
   def question?
-    
+     puts ("Hi, my name is Sophie".sentence?)=(false)
   end
 
   def exclamation?
