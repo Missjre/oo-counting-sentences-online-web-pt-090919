@@ -7,11 +7,11 @@ class String
   end
 
   def question?
-     puts ("Hi, my name is Sophie".sentence?)=(false)
+     
   end
 
   def exclamation?
-
+     puts ("Hi, my name is Sophie!".exclamation?)=(true)
   end
 
   def count_sentences
