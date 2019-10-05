@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-      
+      puts ("one. two. three?".count_sentences)=(3) 
   end
 end
